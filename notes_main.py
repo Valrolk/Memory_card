@@ -29,7 +29,7 @@ entry.setPlaceholderText('Введите тег')
 notes_window = QListWidget()
 tags_win = QListWidget()
 #кнопки
-btn_add_note = QPushButton('Создать заметку')
+btn_add_note = QPushButton('Создать fhdfhd')
 btn_del_note = QPushButton('Удалить заметку')
 btn_save_note = QPushButton('Сохранить заметку')
 
